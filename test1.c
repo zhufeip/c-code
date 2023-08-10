@@ -2,7 +2,7 @@
 #include <stdio.h>
 int main()
 {
-	 int month;
+	int month;
 	
 	scanf_s("%d", &month);
 	switch (month)//switch(整形)
