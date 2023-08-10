@@ -1,1 +1,6 @@
-This is my first code I wrote
+#include <stdio.h>
+int main()
+{
+  printf("Hello World");
+  return 0;
+}
