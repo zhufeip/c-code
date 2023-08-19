@@ -1,4 +1,4 @@
-#include <stdio.h>
+#include<stdio.h>
 //静态static
 int main()
 {
@@ -18,5 +18,5 @@ int main()
 		i++;
 	}
 	return 0;
-
 }
+
