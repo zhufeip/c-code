@@ -13,7 +13,7 @@ int main()
 	//整型i前加static
 	for (int j = 0; j < 5; j++)
 	{
-		static int i = 1;
+		static int i = 1;//static修饰局部变量i不被销毁
 		printf("%d\n", i);
 		i++;
 	}
