@@ -1,0 +1,3 @@
+﻿  test.c
+D:\code\c_code\game\game\test.c(106): warning C4715: “action”: 不是所有的控件路径都返回值
+  game.vcxproj -> D:\code\c_code\game\x64\Debug\game.exe
